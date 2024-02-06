@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=hackmaze
+POSTGRES_USER=GmIvtkQZamBJUgMygHYsQfZWdCiIicva
+POSTGRES_PASSWORD=ro0DLuFQzECZUgF1KKw0TLuaPd0Jf5WWNpwp5ZK2gvQMb6Z8L1lNQE5EpZbNMYlo
